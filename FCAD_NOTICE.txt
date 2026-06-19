@@ -1,0 +1,3 @@
+FCAD 0.4 Released
+DXF import improvements
+IMG loading improvements
