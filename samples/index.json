@@ -2,6 +2,7 @@
   "samples": [
     "three_holes.json",
     "hole_diameter.json",
-    "horizontal_vertical_dims.json"
+    "horizontal_vertical_dims.json",
+    "mark_cumulative_spacing.json"
   ]
 }
