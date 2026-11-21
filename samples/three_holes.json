@@ -1,6 +1,6 @@
 {
-  "title": "세 홀의 바깥 중심 거리",
-  "purpose": "양끝 홀의 중심을 찍어 240 mm를 확인합니다.",
+  "title": "ANNO로 세 홀의 중심 간 치수 넣기",
+  "purpose": "2-Point Dim에서 양끝 홀 중심을 찍어 240 mm 치수를 넣습니다.",
   "drawing": {
     "lines": [
       {
@@ -69,20 +69,17 @@
     ],
     "arcs": []
   },
-  "demo": [
-    {
-      "point": [
+  "demo": {
+    "tool": "anno",
+    "points": [
+      [
         40,
         70
       ],
-      "hold": 1.4
-    },
-    {
-      "point": [
+      [
         280,
         70
-      ],
-      "hold": 2.5
-    }
-  ]
+      ]
+    ]
+  }
 }

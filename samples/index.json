@@ -1,6 +1,7 @@
 {
   "samples": [
     "three_holes.json",
-    "plate_width_700.json"
+    "hole_diameter.json",
+    "horizontal_vertical_dims.json"
   ]
 }
